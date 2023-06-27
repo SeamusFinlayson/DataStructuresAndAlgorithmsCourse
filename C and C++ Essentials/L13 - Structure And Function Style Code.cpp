@@ -40,6 +40,6 @@ int main() {
     changeLength(&r, 4);
     cout << "Area: " << area(r) << endl;
     cout << "Perimeter: " << perimeter(r) << endl;
-\
+
     return 0;
 }
