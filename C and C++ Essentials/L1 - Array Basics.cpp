@@ -21,7 +21,7 @@ int main() {
     //     cout << x << endl;
     // }
 
-    //get size 
+    //get size
     cout << "Enter Size: ";
     int n;
     cin >> n;
