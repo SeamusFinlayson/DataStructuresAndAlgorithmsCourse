@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//function that uses tree recursion
 void fun(int n) {
     if(n > 0) {
         printf("%d ", n);
