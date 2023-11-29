@@ -12,7 +12,7 @@ int factorial(int n) {
     return 1;
 }
 
-int factorialI(int n) {
+int factorialI(int n) { //I means iterative, non-recursive, loop execution
     int product = 1;
     for (int i = 1; i <= n; i++) {
         product *= i;
