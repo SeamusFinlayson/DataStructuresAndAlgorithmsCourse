@@ -35,5 +35,9 @@ int main() {
 
     //same syntax to access all arrays ie. A[i][g]
 
+    cout << A + 0<< endl;
+    cout << A + 1<< endl;
+    cout << sizeof(int);
+
     return 0;
 }
